@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mikey.hill761@gmail.com
+	name = mikey hill mikey.hill761@gmail.com
